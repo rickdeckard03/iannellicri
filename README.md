@@ -7,7 +7,7 @@
 - **High school diploma**  
 I developed foundational web projects using **HTML** and **CSS**, including a curriculum template and a personal interest blog.
 - Fascinated by **data science** and **web development**
-- My studies are currently focused on the world of **Machine Learning** and **Artificial Intelligence**, a new field that I'm exploring and mastering.
+- Currently focused on the world of **Machine Learning** and **Artificial Intelligence**, a new field that I'm exploring and mastering.
 
 <br/>
 
