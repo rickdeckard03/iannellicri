@@ -26,5 +26,5 @@ I developed foundational and basic web projects using **HTML** and **CSS**, incl
 ## Featured projects:
 - **UniGest - University domain management with a Javafx interface**  
 *...currently in progress*
-- **MarketDB - Basic framework of a online marketplce using SQL**  
-*...currently in progress*
+- **[Market DB](https://github.com/rickdeckard03/market-db) - Basic framework of a online marketplace using SQL**
+
